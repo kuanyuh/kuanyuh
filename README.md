@@ -2,12 +2,12 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kuanyuh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-😄I'm glad you clicked on my homepage
-- 🔭 I’m currently working on hyperledger-fabric
-- 🌱 I’m currently learning blockchain
-- 💬 Communicate with me about Java & Golang
-- 📫 How to reach me: kuanyuhuang@qq.com
-
+😄I'm glad you clicked on my homepage.
+- 🔭 I’m a student from CSU.
+- 🌱 I’m currently learning hyperledger-fabric.
+- 💬 Communicate with me about Java & Golang.
+- 📫 How to reach me: huangoctane@gmail.com.
+- ⚡ Here is my blog: [octane](https://kuanyuh.github.io)
 
 <!--
 **kuanyuh/kuanyuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
