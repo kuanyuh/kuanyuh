@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kuanyuh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+😄I'm glad you clicked on my homepage
+- 🔭 I’m currently working on hyperledger-fabric development
+- 🌱 I’m currently learning blockchain
+- 💬 Communicate with me about Java & Golang Development ...
+- 📫 How to reach me: kuanyuhuang@qq.com
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kuanyuh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)
 
 <!--
