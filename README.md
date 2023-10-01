@@ -6,8 +6,8 @@
 - 🔭 I’m a student from CSU.
 - 🌱 I’m currently learning hyperledger-fabric.
 - 💬 Communicate with me about Java & Golang.
-- 📫 How to reach me: huangoctane@gmail.com.
-- ⚡ Here is my blog: [Octane's Blog](https://kuanyuh.github.io)
+- 📫 How to reach me: kuanyuhuang@qq.com.
+- ⚡ Here is my blog: [kuanyu's Blog](https://kuanyuh.github.io)
 
 <!--
 **kuanyuh/kuanyuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
